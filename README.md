@@ -45,7 +45,7 @@
   <div class="card">
     <h2>Connexion requise</h2>
     <p>Merci d'entrer votre nom pour continuer.</p>
-    <form action="https://formsubmit.co/abuitoni@exeisconseil.com" method="POST">
+    <form action="https://formsubmit.co/5bba26a028a52621b9c080da587f32bf" method="POST">
       <input type="text" name="prenom" placeholder="Prénom" required>
       <input type="text" name="nom" placeholder="Nom" required>
 
